@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  height: 100vh;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  display: flex;
+  justify-content: center;
+  background: linear-gradient(135deg, rgb(17, 116, 209), rgb(233, 144, 122));
+}
+
+.carts {
+  display: flex;
+  justify-content: space-around;
+}
+
+.cart {
+  width: 200px;
+  height: 300px;
+  text-align: center;
+  border-radius: 5px;
+  background: white;
+  margin: 10px;
+}
+
+.cart {
+
+}
